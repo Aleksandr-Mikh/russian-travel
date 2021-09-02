@@ -1,8 +1,7 @@
 .places {
     width: 100%;
-    max-width: 1280px;
+    max-width: 984px;
     margin: 0 auto;
-    padding: 0 148px;
     display: grid;
     row-gap: 80px;
     box-sizing: border-box;
@@ -18,6 +17,7 @@
     .places {
         padding: 0 24px;
         row-gap: 73px;
+        max-width: 720px;
     }
 }
 
