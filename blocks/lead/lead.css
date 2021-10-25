@@ -1,16 +1,9 @@
-.lead {
-    max-width: 984px;
-    margin: 0 auto;
+.lead{
+    width: 100%;
 }
 
-@media screen and (max-width: 1279px) {
+@media screen and (max-width: 900px){
     .lead {
-        padding: 0 48px;
-    }
-}
-
-@media screen and (max-width: 1023px) {
-    .lead {
-        padding: 0;
+        max-width: 100%;
     }
 }

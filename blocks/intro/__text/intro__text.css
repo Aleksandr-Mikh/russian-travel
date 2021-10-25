@@ -7,3 +7,9 @@
     color: white;
     max-width: 690px;
 }
+
+@media screen and (max-width: 900px){
+    .intro__text {
+        max-width: none;
+    }
+}
