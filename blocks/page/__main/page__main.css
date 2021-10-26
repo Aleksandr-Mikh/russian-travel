@@ -4,19 +4,19 @@
 }
 
 @media screen and (max-width: 1179px) {
-    .page__content {
+    .page__main {
         margin-top: 48px;
     }
 }
 
 @media screen and (max-width: 900px) {
-    .page__content {
+    .page__main {
         margin-bottom: 88px;
     }
 }
 
 @media screen and (max-width: 425px) {
-    .page__content {
+    .page__main {
         margin-bottom: 64px;
     }
 }
